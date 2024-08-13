@@ -8,3 +8,10 @@ This is a university project made by ReactJs.
 - Search for your content
 - Play video on a dedicated page
 - See video suggestions based on what is playing
+
+Used technologies :
+    -HTML
+    -CSS
+    -JavaScript
+    -React
+    -Meterial UI
